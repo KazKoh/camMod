@@ -9,8 +9,8 @@ was a priority.
 
 Usage is exceedingly simple.
 
-Drop the file "starcammod-1.0.0.jar" from build/libs into the mods folder
-on any neoforge client.
+You should be able to build a "starcammod-1.0.0" with gradle
+using the command in a cloned file "gradlew build"
 Once the mod is active, when you enter a game with
 the respective client,
 you may run "/coolCam".
