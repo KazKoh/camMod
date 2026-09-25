@@ -1,0 +1,13 @@
+{
+  "itemGroup.starcammod": "Example Mod Tab",
+  "block.starcammod.example_block": "Example Block",
+  "item.starcammod.example_item": "Example Item",
+
+  "starcammod.configuration.title": "starCamMod Configs",
+  "starcammod.configuration.section.starcammod.common.toml": "starCamMod Configs",
+  "starcammod.configuration.section.starcammod.common.toml.title": "starCamMod Configs",
+  "starcammod.configuration.items": "Item List",
+  "starcammod.configuration.logDirtBlock": "Log Dirt Block",
+  "starcammod.configuration.magicNumberIntroduction": "Magic Number Text",
+  "starcammod.configuration.magicNumber": "Magic Number"
+}
