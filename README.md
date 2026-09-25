@@ -9,7 +9,7 @@ was a priority.
 
 Usage is exceedingly simple.
 
-Drop the file "starcammod-1.0.0.jar" into the mods folder
+Drop the file "starcammod-1.0.0.jar" from build/libs into the mods folder
 on any neoforge client.
 Once the mod is active, when you enter a game with
 the respective client,
